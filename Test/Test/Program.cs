@@ -11,6 +11,8 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Smeerkoek");
+            Console.ReadKey();
+
         }
     }
 }
